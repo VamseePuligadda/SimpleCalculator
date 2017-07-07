@@ -1,0 +1,10 @@
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\bin\Debug\SampleApplication.exe.config
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.Form1.resources
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.Resources.resources
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.vbproj.GenerateResource.Cache
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\bin\Debug\SampleApplication.exe
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\bin\Debug\SampleApplication.pdb
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\bin\Debug\SampleApplication.xml
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.exe
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.xml
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb

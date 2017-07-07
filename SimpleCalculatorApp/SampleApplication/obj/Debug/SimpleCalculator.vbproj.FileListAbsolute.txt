@@ -1,0 +1,4 @@
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\bin\Debug\SampleApplication.exe.config
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.exe
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.xml
+c:\users\v-vapuli\documents\visual studio 2013\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb
